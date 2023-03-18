@@ -1,0 +1,54 @@
+body{
+   background-image:url(https://www.wallpapers4u.org/wp-content/uploads/sea_sky_surf_82606_1920x1080.jpg );
+color: white;
+}
+
+.block_1 h1, .block_2 h1, .block_3 h1 {
+    font-family: Arial;
+    font-weight: normal;
+font-size: 25px;
+}
+
+.block_1{
+    border: 5px #050505 solid;
+border-radius: 10px;
+padding: 10px;
+max-width: 350px;
+margin: 15px;
+display: inline-block;
+text-align: center;
+}
+
+.block_2{
+    border: 5px #050505 solid;
+border-radius: 10px;
+padding: 10px;
+max-width: 350px;
+margin: 15px;
+display: inline-block;
+text-align: center;
+transition: 2s linear;
+}
+
+.block_2:hover {
+    color: #dbe84e;
+    background: #c03e29;
+}
+
+.block_3{
+    border: 5px #050505 solid;
+border-radius: 10px;
+padding: 10px;
+max-width: 350px;
+margin: 15px;
+display: inline-block;
+text-align: center;
+}
+
+b {
+    color: black;
+}
+
+div{ background-color: #6c6ce5;
+filter: drop-shadow(5px 5px 15px #a00ad5);
+}
